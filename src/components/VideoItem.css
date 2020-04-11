@@ -1,0 +1,10 @@
+.video-item {
+    display: flex !important;
+    align-items: center;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.video-item img{
+    width: 150px;
+}
